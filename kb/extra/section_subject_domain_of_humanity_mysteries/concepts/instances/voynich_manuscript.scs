@@ -33,15 +33,16 @@ voynich_manuscript
 <- concept_mysterious_object;
 <- concept_artifact;
 <- concept_document;
+<- concept_wit_entity;
 
 => nrel_main_idtf:
     [Манускрипт Войнича]
     (* <- lang_ru;; *);
 
 => nrel_note:
-    [Манускрипт Войнича — иллюстрированная рукопись,
+    [иллюстрированная рукопись,
     известная также как Beinecke MS 408, текст которой
-    остаётся нерасшифрованным.]
+    остаётся нерасшифрованным]
     (* <- lang_ru;; *);
 
 => nrel_studied_by_organization:

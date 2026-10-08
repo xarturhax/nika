@@ -29,16 +29,17 @@ nazca_lines_mystery
 nazca_lines
 <- concept_mysterious_object;
 <- concept_geoglyph;
+<- concept_wit_entity;
 
 => nrel_main_idtf:
     [линии Наска]
     (* <- lang_ru;; *);
 
 => nrel_note:
-    [Линии Наска — комплекс крупных геоглифов,
+    [комплекс крупных геоглифов,
     расположенных на пустынных равнинах южного Перу
     и изображающих геометрические фигуры, животных,
-    растения и другие формы.]
+    растения и другие формы]
     (* <- lang_ru;; *);
 
 => nrel_created_by_culture:

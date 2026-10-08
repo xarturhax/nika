@@ -30,15 +30,16 @@ stonehenge_mystery
 stonehenge
 <- concept_mysterious_object;
 <- concept_structure;
+<- concept_wit_entity;
 
 => nrel_main_idtf:
     [Стоунхендж]
     (* <- lang_ru;; *);
 
 => nrel_note:
-    [Стоунхендж — доисторический каменный памятник в Англии,
+    [доисторический каменный памятник в Англии,
     формировавшийся в несколько этапов в эпоху неолита
-    и бронзового века.]
+    и бронзового века]
     (* <- lang_ru;; *);
 
 => nrel_studied_by_organization:
